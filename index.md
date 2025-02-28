@@ -2,9 +2,7 @@
 title: Alex Nedelcu's Personal Page
 ---
 
-Hi! I'm Alex. I am a first-year master student following two programmes: Sustainable Energy Technology and Industrial Ecology.
-
-Website structure:
+Hi! I'm Alex. I am a first-year master student following two programmes: Sustainable Energy Technology and Industrial Ecology. Website structure:
 
 1. Academic publications
   a. Conference paper: Tow pull-up research
